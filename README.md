@@ -62,8 +62,8 @@ This is my first ever public project.just thought to release a node.js starter t
 
 The template is integrated with
 
-* [![Node][Node.js]][NODEjs-url]
-* [![JEST][jestjs.io/]][Jest-url]
+1. nodejs
+2.eslint
 
 
 
