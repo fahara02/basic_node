@@ -109,15 +109,20 @@ after the basic installation of node start here
 _Below is the instruction of getting started with the template_
 
 
-1. install the packages 
+install the packages 
    ```sh
    npm install
    ```
-2. Start the sample server 
+
+
+### Usage
+
+_Below is the instruction of how to use the template_   
+1. Start the sample server 
    ```sh
    npm start
    ```
-3. Run test with jest by 
+2. Run test with jest by 
     ```sh
    npm test
    ```
