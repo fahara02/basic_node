@@ -2,15 +2,6 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -159,11 +150,9 @@ Faruk hannan -  - idea3d.faruk@gmail.com
 
 
 
-[Nodejs-url]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Nodejs-url]: https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png
 
-[Jest-url]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-
+[Jest-url]: https://avatars.githubusercontent.com/u/103283236?s=280&v=4
 
 
 
