@@ -48,15 +48,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is my first ever public project.just thought to release a node.js starter template for newbies.
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -65,13 +60,9 @@ The template is integrated with
 1. nodejs
 2.eslint
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 You will be needing node js and node package manager installed in your system.
@@ -98,7 +89,6 @@ install the packages
    npm install
    ```
 
-
 ### Usage
 
 _Below is the instruction of how to use the template_   
@@ -114,16 +104,6 @@ _Below is the instruction of how to use the template_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-
-
-
-
-
-
-
-<!-- LICENSE -->
 ## License
 
 
@@ -131,9 +111,6 @@ You are free to use this content and code for personal education purposes. Howev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTACT -->
 ## Contact
 
 Faruk hannan -  - idea3d.faruk@gmail.com
