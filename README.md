@@ -113,11 +113,11 @@ This is an example of how to list things you need to use the software and how to
 _Below is the instruction of getting started with the template_
 
 
-1. install the packages by by writing the following command in command prompt
+1. install the packages 
    ```sh
-  npm install
+   npm install
    ```
-2. Start the sample server by writing the following command in command prompt
+2. Start the sample server 
    ```sh
    npm start
    ```
