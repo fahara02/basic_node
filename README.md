@@ -97,16 +97,19 @@ The template is integrated with
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You will be needing node js and node package manager installed in your system.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+after the basic installation of node start here
 * npm
   ```sh
   npm install npm@latest -g
   ```
+* nvm
+  ```sh
+  nvm use 18.18.2
+  ```  
 
 ### Installation
 
@@ -141,7 +144,8 @@ _Below is the instruction of getting started with the template_
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+You are free to use this content and code for personal education purposes. However, you are not authorized to publish this content or code elsewhere, wthether for commercial purposes or not
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,5 +205,4 @@ Faruk hannan -  - idea3d.faruk@gmail.com
 
 
 
-# License
-You are free to use this content and code for personal education purposes. However, you are not authorized to publish this content or code elsewhere, wthether for commercial purposes or not.
+.
