@@ -6,10 +6,10 @@ basic nodejs starter template with jest testing example.
 3.Jest
 
 
-Basic SETUP:
+# Basic SETUP:
 1.npm install
 2.npm start for start
 3.npm test for sample test
 
-License
+# License
 You are free to use this content and code for personal education purposes. However, you are not authorized to publish this content or code elsewhere, wthether for commercial purposes or not.
